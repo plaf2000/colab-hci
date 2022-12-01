@@ -1,0 +1,17 @@
+user_id,user_age,field_of_study,coding_experience,coding_languages,coding_frequency,sus_score_A,sus_score_B,personal_score_A,personal_score_B,preferred_interface,clicks_A1,clicks_A2,clicks_B1,clicks_B2,time_A1,time_A2,time_B1,time_B2
+2,22,Computer Science,< 6 years,"Java, Python",2-3 times a week,90.0,75.0,,,A,34,40,65,51,107,147,144,101
+3,22,Computer Science,< 6 years,"Java, C, Rust, Haskell, Ocaml",Daily,82.5,82.5,,,B,41,33,55,48,99,84,95,91
+4,20,Computer Science,> 6 years,"C, Rust, Haskell, Ocaml",Daily,70.0,75.0,,,B,42,26,55,41,109,73,97,74
+5,20,Computer Science,< 6 years,Java,Daily,62.5,65.0,,,A,94,59,59,64,113,91,89,97
+6,58,Machine Engineering,No,No,No,42.5,60.0,,,B,125,47,83,105,342,130,134,149
+7,55,Childcare,No,No,No,62.5,70.0,,,A,64,44,124,63,185,112,394,178
+8,20,Carpeneter EFZ,No,No,No,75.0,75.0,,,B,50,38,84,65,174,76,144,84
+9,22,"Robotics, System and Control",< 3 years,"Python, Matlab, Fortran",2-3 times a week,77.5,70.0,,,B,117,134,88,73,438,258,158,109
+10,22,Biology,< 1 year,Python,Less (or never),95.0,87.5,,,A,52,36,86,65,98,76,155,101
+11,55,Chief Finance Officer,< 3 years,"Java, Python",Less (or never),100.0,100.0,,,A,74,79,71,70,174,161,177,173
+12,23,"Robotics, System and Control",< 3 years,Python,Weekly,82.5,85.0,,,A,62,43,96,64,134,96,191,164
+13,18,Matura,No,No,No,90.0,97.5,,,B,45,43,66,43,113,107,91,62
+14,22,Agricultural Science ,< 1 year,Python,Less (or never),70.0,82.5,,,B,56,37,70,55,131,66,163,102
+15,22,Electrical engineering,< 6 years,"Python, C, Verilog, Matlab",2-3 times a week,65.0,65.0,,,A,52,42,114,94,91,62,213,203
+16,22,Computer Science,< 6 years,"Java, Python, C++, C, Haskell",Daily,80.0,80.0,,,A,52,27,70,35,110,54,141,57
+17,23,Computer Science,< 6 years,"Java, Ocaml",Daily,52.5,45.0,,,A,41,33,80,46,165,104,170,126
